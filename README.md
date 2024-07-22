@@ -1,10 +1,16 @@
 # Gemini Clone Website
 
+![Descriptive Alt Text](./src/assets/gemini-clone-project-1.png "Gemini Clone Project")
+
 ## Introduction
 
 Welcome to the Gemini Clone Website project! This project is a working clone of the Gemini platform, a Google initiative known for its advanced AI and machine learning capabilities. The original Gemini platform provides innovative solutions in the field of artificial intelligence and aims to enhance user experiences with cutting-edge technology.
 
 This clone replicates some of the core features and functionalities of the Gemini platform, leveraging the Google Gemini API. The model used in this project is the `gemini-1.5-flash` by Google Cloud GCP, designed for generative AI tasks and offering advanced capabilities in machine learning.
+
+## Deployment
+
+You can view the deployed project at: [Deployment Link](https://gemini-clone-project.hafeezbaig.in/)
 
 ## Prerequisites
 
@@ -60,6 +66,3 @@ This project is developed by [Hafeez Baig](https://www.hafeezbaig.in).
 - [LinkedIn](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
 - [Instagram](https://www.instagram.com/mohammed_hafeez_baig/)
 
-## Deployment
-
-You can view the deployed project at: [Deployment Link](https://gemini-clone-project.hafeezbaig.in/)

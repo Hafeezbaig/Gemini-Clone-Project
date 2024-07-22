@@ -66,3 +66,6 @@ This project is developed by [Hafeez Baig](https://www.hafeezbaig.in).
 - [LinkedIn](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
 - [Instagram](https://www.instagram.com/mohammed_hafeez_baig/)
 
+## Feedback or Bugs report
+
+- [Talk](https://talk.hafeezbaig.in)

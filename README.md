@@ -56,9 +56,9 @@ This project is developed by [Hafeez Baig](https://www.hafeezbaig.in).
 
 ## Socials
 
-- [GitHub](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
-- [LinkedIn](https://gemini-clone-project.hafeezbaig.in/)
-- [Instagram](https://github.com/Hafeezbaig)
+- [GitHub](https://github.com/Hafeezbaig)
+- [LinkedIn](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
+- [Instagram](https://www.instagram.com/mohammed_hafeez_baig/)
 
 ## Deployment
 

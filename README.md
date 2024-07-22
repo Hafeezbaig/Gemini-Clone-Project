@@ -43,7 +43,7 @@ This will launch the project in development mode and allow you to view the websi
 
 This project is a fully functional clone of the Gemini platform, incorporating the Google Gemini API and the `gemini-1.5-flash` model by Google Cloud GCP. It aims to provide a similar user experience and interface as the original Gemini platform, focusing on generative AI and machine learning functionalities.
 
-Feel free to contribute to the project or use it as a reference for your own development needs. For any issues or suggestions, please open an issue in the [GitHub repository](https://github.com/yourusername/gemini-clone/issues).
+Feel free to contribute to the project or use it as a reference for your own development needs. For any issues or suggestions, please open an issue in the [GitHub repository](https://github.com/Hafeezbaig/Gemini-Clone-Project/issues).
 
 ## Made By
 
@@ -56,14 +56,10 @@ This project is developed by [Hafeez Baig](https://www.hafeezbaig.in).
 
 ## Socials
 
-- [LinkedIn](https://www.linkedin.com/in/hafeezbaig)
-- [Twitter](https://twitter.com/hafeezbaig)
-- [GitHub](https://github.com/hafeezbaig)
+- [GitHub](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
+- [LinkedIn](https://gemini-clone-project.hafeezbaig.in/)
+- [Instagram](https://github.com/Hafeezbaig)
 
 ## Deployment
 
-You can view the deployed project at: [Deployment Link](https://www.deployment-link.com)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+You can view the deployed project at: [Deployment Link](https://gemini-clone-project.hafeezbaig.in/)

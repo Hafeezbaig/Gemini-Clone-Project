@@ -19,8 +19,8 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/gemini-clone.git
-   cd gemini-clone
+   git clone https://github.com/Hafeezbaig/Gemini-Clone-Project.git
+   cd Gemini-Clone-Project
    ```
 
 2. **Install dependencies:**

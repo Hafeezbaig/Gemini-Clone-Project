@@ -14,13 +14,15 @@ const Main = () => {
     <div className='main'>
       <div className="nav">
         <p>Gemini</p>
-        <img src={assets.user_icon} alt="" />
+        {/* <img src={assets.user_icon} alt="" /> */}
+        <img src={"https://i.ibb.co/Y8T6q7B/hafeez-profile-circle.png"} alt="" />
       </div>
       <div className="main-container">
         {showResult ? (
           <div className="result">
             <div className='result-title'>
-              <img src={assets.user_icon} alt="" />
+              {/* <img src={assets.user_icon} alt="" /> */}
+              <img src={"https://i.ibb.co/Y8T6q7B/hafeez-profile-circle.png"} alt="" />
               <p>{recentPrompt}</p>
             </div>
             <div className="result-data">
